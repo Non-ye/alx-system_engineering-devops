@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=128
+echo "$USER $((TRUEKNOWLEDGE+128)) $(cal)"
