@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$USER $((TRUEKNOWLEDGE+128)) $(cal)"
+echo $((TRUEKNOWLEDGE+128))
